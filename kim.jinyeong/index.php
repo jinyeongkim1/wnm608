@@ -6,10 +6,14 @@
 
 	<meta name="viewport" content="width=device-width">
 
+	<base href="http://jinyeongkim.com/aau/wnm608/kim.jinyeong/">
+
 	<link rel="stylesheet" href="lib/css/styleguide.css">
-	
+	<link rel="stylesheet" href="lib/css/gridsystem.css">
+	<link rel="stylesheet" href="css/storetheme.css">
 </head>
 <body>
+
 	<header class="navbar">
 		<div class="container display-flex">
 			<div class="flex-none">
@@ -26,6 +30,7 @@
 			</nav>
 		</div>
 	</header>
+
 	<div class="view-window" style="background-image:url('img/main1.png')">
 		<h2>Beautiful<br>Pink<br>Vodka</h2>
 	</div>

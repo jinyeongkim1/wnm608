@@ -9,7 +9,7 @@ $users_array = file_get_json("../data/users.json");
 
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>Reading Data</title>

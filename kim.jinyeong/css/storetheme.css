@@ -1,10 +1,11 @@
-/*
-:root {
-	--color-offwhite: #f4f4f4;
 
-	--color-main-light: #cbebf9;
-	--color-main-medium: #2592c3;
-	--color-main-dark: #052b3c;
+:root {
+	--color-offwhite: #fff;
+
+	--color-main-light: #c0bbff;
+	--color-main-medium: #756dd9;
+	--color-main-dark: #4338d3;
+
 }
 
 body {
@@ -145,4 +146,3 @@ body {
 
 
 
-*/
